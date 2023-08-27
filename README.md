@@ -47,10 +47,6 @@ const Example = () => {
 export default Example;
 ```
 
-## Info
-
-This module was bootstrapped with [build-react-npm](https://github.com/knowankit/build-react-npm).
-
 ## License
 
 MIT © [mamanico1](https://github.com/mamanico1)
